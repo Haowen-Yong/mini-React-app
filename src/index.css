@@ -1,0 +1,26 @@
+body {
+    background-color: azure;
+}
+
+.header {
+    background-color: aquamarine;
+}
+
+.userPrompt {
+    background-color: blanchedalmond;
+}
+
+.buildImages {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.buildDescription {
+    font-weight: bold;
+}
+
+.pcImage {
+    width: 20%;
+    height: auto;
+}
